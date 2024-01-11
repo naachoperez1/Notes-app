@@ -4,7 +4,7 @@ Single page application (SPA) built with Spring and React, enabling CRUD operati
 
 Persistence is achieved using a MySQL relational database.
 
-The backend exposes a REST API that creates, reads, deletes and updates notes in a MySQL db, while the frontend request to those endpoints updating its React components.
+The backend exposes a REST API that creates, reads, deletes and updates notes in a MySQL db, while the frontend performs request to those endpoints updating its React components.
 
 The app also lets you organize notes in "active" and "archived" notes.
 
